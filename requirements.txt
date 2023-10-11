@@ -1,0 +1,5 @@
+Flask==2.1.1
+Flask-SQLAlchemy==2.5.1
+SQLAlchemy==1.4.26
+sqlalchemy-utils==0.37.8
+pymysql==1.0.2
